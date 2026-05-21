@@ -1,4 +1,4 @@
-# Soy Paola Albán
+# Soy Paola Alban
 
 Soy Ingeniera Industrial con experiencia en análisis de información, gestión de procesos y reporting. Tras finalizar un Máster en Data Science y cursar actualmente un MBA en Data Analytics, estoy orientando mi perfil hacia Data Analytics, Business Intelligence y proyectos aplicados con datos.
 
