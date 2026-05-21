@@ -45,12 +45,13 @@ Repositorio: próximamente
 
 ---
 
-### Predicción del abandono estudiantil en educación superior
+### Predicción del Abandono Estudiantil en Educación Superior
 
-Trabajo final de máster basado en Machine Learning supervisado para predecir abandono, continuidad o graduación de estudiantes universitarios.  
-Se trabajó con análisis exploratorio, preparación de datos, comparación de modelos, XGBoost e interpretación mediante SHAP.
+Proyecto de Machine Learning aplicado a la predicción del abandono estudiantil en educación superior, utilizando variables académicas, personales y socioeconómicas.
 
-Repositorio: próximamente
+El proyecto incluye análisis exploratorio de datos, preparación de variables, comparación de modelos supervisados, optimización con XGBoost e interpretación de resultados mediante SHAP.
+
+Repositorio: [Prediccion_abandono_estudiantil](https://github.com/PaoAlbanData/Prediccion_abandono_estudiantil)
 
 ---
 
