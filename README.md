@@ -35,15 +35,6 @@ Me interesa transformar datos en información útil para apoyar decisiones de ne
 
 ## Proyectos destacados
 
-### Customer Retention Analytics para E-commerce
-
-Proyecto de análisis de clientes a partir de datos transaccionales de e-commerce.  
-Incluye limpieza de datos, análisis exploratorio, segmentación de clientes, métricas RFM y definición de clientes en riesgo de inactividad.
-
-Repositorio: próximamente
-
----
-
 ### Predicción del Abandono Estudiantil en Educación Superior
 
 Proyecto de Machine Learning aplicado a la predicción del abandono estudiantil en educación superior, utilizando variables académicas, personales y socioeconómicas.
@@ -53,6 +44,11 @@ El proyecto incluye análisis exploratorio de datos, preparación de variables, 
 Repositorio: [Prediccion_abandono_estudiantil](https://github.com/PaoAlbanData/Prediccion_abandono_estudiantil)
 
 ---
+
+## Próximamente: más proyectos publicados.
+
+---
+
 
 ## Actualmente estoy reforzando
 
